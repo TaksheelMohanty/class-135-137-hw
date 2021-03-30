@@ -1,0 +1,23 @@
+.header{
+    font-size: 25px;
+    margin: 0;
+    width: 100%;
+}
+
+.footer{
+    position: fixed;
+    color: white;
+    bottom: 0;
+    width: 100%;
+    background-color: lightslategray;
+    line-height: 3;
+    text-align: center;
+}
+
+body{
+    background-size: cover;
+}
+
+.h1{
+    color: white;
+}
